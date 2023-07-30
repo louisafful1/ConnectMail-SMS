@@ -33,6 +33,6 @@ This project was developed for learning purposes, and contributions are not curr
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
-This project was created as part of the learning process to understand PHP and MySQL basics. Thanks to Richard Allo, Foster Nusetor and various resources that helped in gaining knowledge about php backend development.
+This project was created as part of the learning process to understand PHP and MySQL basics. Thanks to Richard Allo, Foster Nusetor[https://github.com/delali3] and various resources that helped in gaining knowledge about php backend development.
 
 If you have any questions or need further assistance with the project, feel free to reach out @ [louisafful1@gmail.com]
